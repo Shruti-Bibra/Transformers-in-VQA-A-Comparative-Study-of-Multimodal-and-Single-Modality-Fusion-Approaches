@@ -1,0 +1,1 @@
+# Transformers-in-VQA-A-Comparative-Study-of-Multimodal-and-Single-Modality-Fusion-Approaches
